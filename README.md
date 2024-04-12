@@ -1,2 +1,2 @@
-# core-ml-lib-exercises
-A repo for practicing basic ml libraries like pandas and numpy
+# core-pandas-exercises
+A repo for practicing pandas basics
